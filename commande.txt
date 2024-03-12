@@ -1,0 +1,12 @@
+echo "# constellation" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Duvalier110/constellation.git
+ git push - tu es origine principale
+
+
+git remote add origin https://github.com/Duvalier110/constellation.git
+ git branch -M main 
+git push -u origin main
